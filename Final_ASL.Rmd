@@ -1,6 +1,6 @@
 ---
 title: "Final_ASL"
-author: "21BDA07, 21BDA11, 21BDA54"
+author: "21BDA07"
 date: "05/07/2022"
 output: pdf_document
 ---
@@ -9,8 +9,7 @@ output: pdf_document
  MSC. BIG DATA ANALYTICS 
  _______________________________________________________
  Angel Philip - 21BDA07
- Jerusha Gomez - 21BDA11
- Lakshitha Sethi - 21BDA54
+ 
  
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
